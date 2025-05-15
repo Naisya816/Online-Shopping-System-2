@@ -1,6 +1,5 @@
 # Online-Shopping-System-2
 
-/*
 
 ## 📌 Alur Program
 
@@ -50,5 +49,7 @@ Proyek terdiri dari 7 berkas utama:
 - **Clothing**: Baju Polos, Knit, Gamis, Celana, Rok
 
 ## Anggota:
-- Nama: [Isikan Nama Anda yang Berkontribusi]
-*/
+-Tiarasyani Junia Bahri (51424335)
+-Naisya Putri Abdullah (51424000)
+-Freya Inezra Pardosi (50424474)
+-Aulia Tifani (50424209)
