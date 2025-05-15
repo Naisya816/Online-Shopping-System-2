@@ -1,6 +1,5 @@
 # Online-Shopping-System-2
 
-
 ## 📌 Alur Program
 
 Berikut ini adalah alur kerja dari sistem **Online Shopping System**:
@@ -29,6 +28,7 @@ Mereka mewarisi atribut umum dari `Product` dan menambahkan atribut spesifik:
 - Kelas `ShoppingCart` menyimpan item belanja dalam list.
 - Setiap item mencatat kuantitas dan menghitung harga diskon.
 - Tanggal dan waktu produk ditampilkan secara terpisah dan rapi.
+- Berat (weight) produk elektronik ditampilkan sebagai bagian dari spesifikasi.
 
 ### 6. Output ke Konsol
 - Program akan mencetak informasi semua item dalam keranjang belanja.
@@ -48,8 +48,9 @@ Proyek terdiri dari 7 berkas utama:
 - **Electronics**: Laptop, HP, TV, Kipas Angin
 - **Clothing**: Baju Polos, Knit, Gamis, Celana, Rok
 
-### Anggota:
--Tiarasyani Junia Bahri (51424335)
--Naisya Putri Abdullah (51424000)
--Freya Inezra Pardosi (50424474)
--Aulia Tifani (50424209)
+## Anggota:
+- Tiarasyani Junia Bahri (51424335)
+- Naisya Putri Abdullah (51424000)
+- Freya Inezra Pardosi (50424474)
+- Aulia Tifani (50424209)
+
