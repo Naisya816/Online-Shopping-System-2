@@ -48,7 +48,7 @@ Proyek terdiri dari 7 berkas utama:
 - **Electronics**: Laptop, HP, TV, Kipas Angin
 - **Clothing**: Baju Polos, Knit, Gamis, Celana, Rok
 
-## Anggota:
+### Anggota:
 -Tiarasyani Junia Bahri (51424335)
 -Naisya Putri Abdullah (51424000)
 -Freya Inezra Pardosi (50424474)
